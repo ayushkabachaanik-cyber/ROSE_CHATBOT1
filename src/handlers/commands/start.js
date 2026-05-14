@@ -129,5 +129,5 @@ const startCommand = async (ctx) => {
 };
 
 module.exports = startCommand;
-"
+
 Observation: Overwrite successful: /app/rose_bot/src/handlers/commands/start.js
