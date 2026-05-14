@@ -1,5 +1,4 @@
 
-Action: file_editor create /app/rose_bot/src/handlers/commands/start.js --file-text "const { Markup } = require('telegraf');
 const os = require('os');
 const config = require('../../config/index');
 const { formatDuration, escapeHtml } = require('../../utils/helpers');
